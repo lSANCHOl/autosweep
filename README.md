@@ -1,6 +1,5 @@
 # autosweep
-Automated ping sweep. Just run the file and it does the rest.
+Automated ping sweep to find IPs of devices on a given network
 
-
-NOTE:
-me2 variable may need to altered depending on platform.
+<h2> USAGE: </h2>
+SYNTAX: ./autosweep.sh [wifi-card]
